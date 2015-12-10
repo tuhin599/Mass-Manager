@@ -1,0 +1,21 @@
+Wed May 20 03:35:12 BDT 2015 : Apache Derby Network Server - 10.11.1.2 - (1629631) started and ready to accept connections on port 1527
+----------------------------------------------------------------
+Wed May 20 03:35:14 BDT 2015:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.11.1.2 - (1629631): instance a816c00e-014d-6e1a-1217-ffffc0479532 
+on database directory C:\Users\Tuhin\Documents\NetBeansProjects\MassManagement\derby\root with class loader sun.misc.Launcher$AppClassLoader@e53b93 
+Loaded from file:/C:/Program%20Files/Java/jdk1.8.0_45/db/lib/derby.jar
+java.vendor=Oracle Corporation
+java.runtime.version=1.8.0_45-b15
+user.dir=C:\Program Files\Java\jdk1.8.0_45\db
+os.name=Windows 7
+os.arch=x86
+os.version=6.1
+derby.system.home=C:\Users\Tuhin\Documents\NetBeansProjects\MassManagement\derby
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Wed May 20 03:35:34 BDT 2015:
+Shutting down instance a816c00e-014d-6e1a-1217-ffffc0479532 on database directory C:\Users\Tuhin\Documents\NetBeansProjects\MassManagement\derby\root with class loader sun.misc.Launcher$AppClassLoader@e53b93 
+Wed May 20 03:35:34 BDT 2015 Thread[DRDAConnThread_2,5,main] (DATABASE = root), (DRDAID = {2}), Database 'root' shutdown.
+----------------------------------------------------------------
+Wed May 20 03:54:43 BDT 2015: Shutting down Derby engine
+----------------------------------------------------------------
